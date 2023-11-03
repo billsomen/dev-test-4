@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "collection": "users",
+      "db": {
+        "baseURL": "http://localhost:7000/"
+      },
+      "name": "John Doe",
+      "accessibility": "Medium",
+      "price": "Free",
+      "id": 1
+    }
+  ]
+}
